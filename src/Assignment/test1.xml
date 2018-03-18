@@ -1,0 +1,10 @@
+<script name=test1>
+<test name="test" />
+<class name=" Assignment.Testcase" />
+<methods>
+<method name = "Testcase1" />
+<method name="Testcase2" />
+<method name="testcase3 />
+<method name ="testcase4" />
+</methods>
+</script>
